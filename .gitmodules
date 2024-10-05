@@ -1,0 +1,3 @@
+[submodule "laba2"]
+	path = laba2
+	url = git@github.com:sheeryo/laba2.git
